@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:androie="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/item_mapSwitch"
+        android:title="mapswitch"
+        androie:showAsAction="always"
+        android:orderInCategory="2" />
+
+    <item
+        android:id="@+id/item_chartSwitch"
+        android:title="chartswitch"
+        androie:showAsAction="always"
+        android:orderInCategory="1" />
+
+</menu>
